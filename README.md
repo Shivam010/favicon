@@ -1,0 +1,2 @@
+# favicon
+My favicon
