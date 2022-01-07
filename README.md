@@ -1,2 +1,3 @@
 # favicon
-My favicon
+
+My favicon files - Branding Shivam Rathore (as Sh)
